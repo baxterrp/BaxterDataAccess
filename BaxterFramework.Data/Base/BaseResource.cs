@@ -1,4 +1,4 @@
-﻿namespace BaxterFramework.Common
+﻿namespace BaxterFramework.Data
 {
     public class BaseResource
     {

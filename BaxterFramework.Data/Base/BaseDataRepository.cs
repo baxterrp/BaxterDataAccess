@@ -1,5 +1,4 @@
-﻿using BaxterFramework.Common;
-using BaxterFramework.Data.Configuration;
+﻿using BaxterFramework.Data.Configuration;
 using BaxterFramework.Data.Interfaces;
 using Dapper;
 using System;

@@ -1,5 +1,4 @@
-﻿using BaxterFramework.Common;
-using BaxterFramework.Data.Base;
+﻿using BaxterFramework.Data.Base;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
